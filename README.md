@@ -27,12 +27,17 @@ I'm a passionate backend developer with a focus on **Go** (with experience in **
       <li><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /></li>
       <li><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" /></li>
       <li><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /></li>
-      <li><img src="https://img.shields.io/badge/-Databases-003B57?style=flat&logo=database&logoColor=white" alt="Databases" /> (*PostgreSQL, MySQL, etc.*)</li>
+      <li><img src="https://img.shields.io/badge/-Databases-003B57?style=flat&logo=database&logoColor=white" alt="Databases" /></li>
     </ul>
+    
+### 🔗 Projects
+Here are some of the projects I've worked on:
+
+- Currently no project is available
   </div>
 
   <!-- Right Column -->
-  <div style="height: 0;">
+  <div>
     <h3>📊 GitHub Stats</h3>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <img src="https://github-readme-stats-one-lyart-97.vercel.app/api?username=mcbulazs&theme=tokyonight" alt="Anurag's GitHub stats" width="100%" />
@@ -42,10 +47,6 @@ I'm a passionate backend developer with a focus on **Go** (with experience in **
 
 </div>
 
-### 🔗 Projects
-Here are some of the projects I've worked on:
-
-- Currently no project is available
 
 
 ### ☕ Support My Work
