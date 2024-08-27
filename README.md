@@ -1,4 +1,4 @@
-# Hi there, I'm Bulazs! 👋
+# Hello there, I'm Bulazs! 👋
 
 I'm a passionate backend developer with a focus on **Go** (with experience in **C#**). While backend development is my main strength, I’m comfortable with frontend work when necessary, especially for full-stack projects. I'm also pretty good with databases, ensuring that the data layer of my applications is robust and efficient.
 
@@ -39,8 +39,8 @@ I'm committed to building and maintaining ad-free websites and applications beca
 </div>
 
 ### 🔗 Connect with Me
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com)
+- **vari.balazs01@gmail.com**
+- [**LinkedIn**](https://www.linkedin.com/in/bal%C3%A1zs-v%C3%A1ri-600090245/)
 
 ---
 
