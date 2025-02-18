@@ -30,8 +30,7 @@ I'm a passionate backend developer with a focus on **Go** (with experience in **
     
 ### 🔗 Projects
 Here are some of the projects I've worked on:
-
-- Currently no project is available
+- [**DnD Character Manager**](https://dnd.bulazs.com) (WIP)
 
 
 
@@ -42,7 +41,7 @@ I'm committed to building and maintaining ad-free websites and applications beca
 
 ### 🔗 Connect with Me
 - **vari.balazs01@gmail.com**
-- [**LinkedIn**](https://www.linkedin.com/in/bal%C3%A1zs-v%C3%A1ri-600090245/)
+- [**LinkedIn**](https://www.linkedin.com/in/bulazs/)
 
 
 
