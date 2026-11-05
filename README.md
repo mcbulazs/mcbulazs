@@ -10,7 +10,7 @@ Backend developer in Budapest. At work I build a B2B SaaS platform in C#, Blazor
 
 A terminal UI for managing Docker Compose stacks on a server. It finds every folder with a compose file, shows live status from Docker events, and starts, stops, pulls, edits and tails logs with a single key. I use it on my own server every day.
 
-<a href="https://github.com/mcbulazs/lazycompose"><img src="https://raw.githubusercontent.com/mcbulazs/lazycompose/main/docs/screenshot.png" alt="lazycompose showing environments, services and live logs" width="720"></a>
+<a href="https://github.com/mcbulazs/lazycompose"><img src="https://raw.githubusercontent.com/mcbulazs/lazycompose/main/docs/screenshot.png?v=0.4.0" alt="lazycompose showing environments, services and live logs" width="720"></a>
 
 Go · Bubble Tea · Lip Gloss · Docker
 
